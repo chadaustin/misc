@@ -1,0 +1,7 @@
+Debug
+*.exe
+*.ilk
+*.pdb
+*.tlog
+*.vcxproj.user
+
